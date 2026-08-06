@@ -3,9 +3,9 @@
     "librartpro@euclpts.com": {
       "updates": [
         {
-          "version": "1.0.63",
-          "update_link": "https://github.com/sanaatchi/zotero-librart-pro-releases/releases/download/v1.0.63/zotero-librart-pro.xpi",
-          "update_hash": "sha512:7d37f24c83ffe2c969fd05407514d7535f2315de3a2dca6c1fef3d8ed2558a4a672fa602d618cc5f0c9be861e14b28a3748a360d5b0cbe4d67af512086faa78a",
+          "version": "1.0.64",
+          "update_link": "https://github.com/sanaatchi/zotero-librart-pro-releases/releases/download/v1.0.64/zotero-librart-pro.xpi",
+          "update_hash": "sha512:9f3d379f8d8a7d67c0be6517001b32e0b914bc91e4019631bb243777e0900373c4f2e84566583f508e31811697b61be8a9f4a6685efeae137ccb49b557cc3eff",
           "applications": {
             "zotero": {
               "strict_min_version": "7.0",
